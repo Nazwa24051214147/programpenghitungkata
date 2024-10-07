@@ -1,0 +1,2 @@
+# programpenghitungkata
+penghitung kata nazwaaa
